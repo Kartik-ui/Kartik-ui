@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-ui&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-ui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-ui" alt="kartik-ui" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/68336625/379138023-b80c6461-a192-4193-b607-61430555a962.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2NjY5ODYsIm5iZiI6MTcyOTY2NjY4NiwicGF0aCI6Ii82ODMzNjYyNS8zNzkxMzgwMjMtYjgwYzY0NjEtYTE5Mi00MTkzLWI2MDctNjE0MzA1NTVhOTYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIzVDA2NTgwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgyN2EzNDkwZmFjYmQ3ZGZlNWVjZDRiYzE3MjBjN2M1N2Q2OTFiNjgzYTI5ZDVjZDA1NjEyODRmYjM0MjI4ZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9iSn3PTBMHjmdmjr64IuIGdwekFT2GAD8lM4gx49OXw" />
 
 <p align="left"> <a href="https://twitter.com/kartik_v_001" target="blank"><img src="https://img.shields.io/twitter/follow/kartik_v_001?logo=twitter&style=for-the-badge" alt="kartik_v_001" /></a> </p>
@@ -39,4 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-ui&show_icons=true&locale=en" alt="kartik-ui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-ui&" alt="kartik-ui" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik-ui" alt="kartik-ui" /></a> </p>
+
 
