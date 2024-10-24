@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-ui&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-ui" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/68336625/379138023-b80c6461-a192-4193-b607-61430555a962.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2NzE3MDEsIm5iZiI6MTcyOTY3MTQwMSwicGF0aCI6Ii82ODMzNjYyNS8zNzkxMzgwMjMtYjgwYzY0NjEtYTE5Mi00MTkzLWI2MDctNjE0MzA1NTVhOTYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIzVDA4MTY0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAxYTY5NDYzMmE0MzI1NGRlMGQ4ZmNlMWE2MTYwMjIxMTQ4NWM2YmIzYjQwYWNkYzA3OTFhMThmYmU3NThlN2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2rjqgoJeqPmgd1PEVezCIMk2PEXu0-YDlUtrocwNkro" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Kartik-ui/Kartik-ui/refs/heads/main/images/pngtree-programmer-it-developer-png-image_13520483-removebg-preview.png" />
 
 <p align="left"> <a href="https://twitter.com/kartik_v_001" target="blank"><img src="https://img.shields.io/twitter/follow/kartik_v_001?logo=twitter&style=for-the-badge" alt="kartik_v_001" /></a> </p>
 
